@@ -121,9 +121,9 @@ function Register() {
   }
 
   return (
-    <Container fluent>
+    <Container fluid>
       <Row className="justify-content-md-center">
-        <Col xs md="6">
+        <Col xs md="6" lg="4">
           <Card>
             <Card.Header>
               Register
